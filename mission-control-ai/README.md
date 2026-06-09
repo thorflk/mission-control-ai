@@ -163,4 +163,4 @@ mission-control-ai/
 
 ## Link Vídeo YouTube
 
-- **Link:** 
+- **Link:** https://youtu.be/qcOai7PDBOs
